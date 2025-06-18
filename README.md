@@ -11,3 +11,8 @@ Usamos conceitos de Intervalos Nomeados, Tabelas de Apoio, Validação de Dados,
 Criando Um Organizador de Declaração de Imposto de Renda.
 Neste projeto criamos um sistema para o titular organizar organizar suas declarações de imposto de renda.
 Usamos conceitos de Fórmulas, Validação de Dados, Uniformidade Visual, Links e Conceitos Visuais.
+
+3ºProjeto
+Criando uma Dashboard de Vendas do XBOX.
+Neste projeto pegamos uma base de dados do XBOX, e nosso objetivo é transformar dados em informações (responder perguntas de negócios).
+Usamos conceits de Tabela Dinâmica, Uniformidade Visual, Conceitos Visuais, Filtros visuais e Tratando dados.
